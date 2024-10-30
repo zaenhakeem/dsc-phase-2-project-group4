@@ -130,7 +130,7 @@ The project includes several key visualizations:
 |-----------------------------|-----------------------------|
 | ![Studio by Gross](tudiobyfross.png) | ![Heatmap](heatmapfinal.png) |
 | ![Movies by Rating](moviesbyrating.png) | ![Genres Pie Chart](genrespie.png) |
-| ![Movies by Votes](moviesbyvotes.png) | ![Movies by Gross](aven.png) |
+| ![Movies by Votes](moviesbyvoytes.png) | ![Movies by Gross](aven.png) |
 
 ## Description of Images
 
