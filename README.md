@@ -1,5 +1,5 @@
 
-# Data Analysis on Movie Financials and ROI
+# Data Analysis on Movie Financials
 
 This project presents a comprehensive analysis of movie financials, exploring production budgets, box office gross, and Return on Investment (ROI). By analyzing various datasets, we aim to uncover the underlying factors that drive a movie's financial success and provide valuable insights into the correlation between budget size and profitability. This analysis includes detailed visualizations, predictive models, and hypothesis testing.
 
@@ -126,34 +126,24 @@ The project includes several key visualizations:
 
 ### Visualizations
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+| Image 1                     | Image 2                     |
+|-----------------------------|-----------------------------|
+| ![Studio by Gross](tudiobyfross.png) | ![Heatmap](heatmapfinal.png) |
+| ![Movies by Rating](moviesbyrating.png) | ![Genres Pie Chart](genrespie.png) |
+| ![Movies by Votes](moviesbyvotes.png) | ![Movies by Gross](aven.png) |
 
-  <div style="flex: 0 0 45%; margin: 10px;">
-    <img src="tudiobyfross.png" alt="studio by gross" style="width: 100%;"/>
-  </div>
-  
-  <div style="flex: 0 0 45%; margin: 10px;">
-    <img src="heatmapfinal.png" alt="Heatmap" style="width: 100%;"/>
-  </div>
+## Description of Images
 
-  <div style="flex: 0 0 45%; margin: 10px;">
-    <img src="moviesbyrating.png" alt="Movies by rating" style="width: 100%;"/>
-  </div>
+- **Studio by Gross**: A visual representation of the studio's performance.
+- **Heatmap**: A heatmap showcasing data trends.
+- **Movies by Rating**: A chart illustrating movie ratings.
+- **Genres Pie Chart**: A pie chart displaying genre distribution.
+- **Movies by Votes**: A graph of votes received by movies.
+- **Movies by Gross**: A chart showing gross revenue of movies.
 
-  <div style="flex: 0 0 45%; margin: 10px;">
-    <img src="genrespie.png" alt="genres pie chart" style="width: 100%;"/>
-  </div>
-  
-  <div style="flex: 0 0 45%; margin: 10px;">
-    <img src="moviesbyvoytes.png" alt="Movies by votes" style="width: 100%;"/>
-  </div>
-  
-  <div style="flex: 0 0 45%; margin: 10px;">
-    <img src="aven.png" alt="Movies by Gross" style="width: 100%;"/>
-  </div>
+## Usage
 
-</div>
-
+Feel free to explore the images above. For questions or contributions, please reach out!
 
 
 # Movie Studio Recommendations
