@@ -76,14 +76,26 @@ The following tools and libraries were used in the analysis:
 ### 2. Return on Investment (ROI) Insights
    - **High ROI for Lower-Budget Films**: Smaller-budget films often yield the highest ROI due to their lower production costs.
    - **Larger Budgets Aren't Always Profitable**: While larger-budget films earn more gross revenue, they also come with higher costs, which doesn’t always translate into better profitability.
-### **Return on Investment (ROI) Calculation**
 
-The ROI helps stakeholders understand the financial benefits of the project relative to its cost. It can be calculated as follows:
+# Return on Investment (ROI) Calculation
 
-**ROI Formula**:
-\[
+## Overview
+The **ROI** helps stakeholders understand the financial benefits of a project relative to its cost.
+
+## ROI Formula
+The formula for calculating ROI is as follows:
+
+$$
 \text{ROI} = \frac{\text{Net Profit} - \text{Total Investment}}{\text{Total Investment}} \times 100
-\]
+$$
+
+### Definitions
+- **Net Profit:** The financial gain from improved student performance and retention rates.
+- **Total Investment:** The costs incurred during the project, which may include:
+- 
+## Conclusion
+By using the ROI formula, stakeholders can evaluate the effectiveness and financial viability of the project.
+
 
 - **Net Profit**: The financial gain from improved student performance and retention rates.
 - **Total Investment**: The costs incurred during the project (software, data analysis tools, salaries, etc.).
