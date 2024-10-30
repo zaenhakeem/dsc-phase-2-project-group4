@@ -103,12 +103,11 @@ The following tools and libraries were used in the analysis:
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
-- Additional contributors' names
+- [Abdihakim Issack](https://github.com/zaenhakeem)
+- [Imran](https://github.com/malvadaox)
+- [Boniface Ngechu](https://github.com/bonie99)
+- [Linet Lydia](https://github.com/linetlydia)
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Visualizations
 
@@ -119,7 +118,12 @@ The project includes several key visualizations:
 
 Here is a placeholder for the images:
 
-![Placeholder for Visualizations](path_to_image_1)
+![studio by gross](tudiobyfross.png)
+![Heatmap](heatmapfinal.png)
+![Genre by rating](genrebyrating.png)
+
+
+
 
 ---
 
