@@ -42,8 +42,7 @@ The following tools and libraries were used in the analysis:
 - **Pandas**: Essential for managing and cleaning the datasets.
 - **Matplotlib & Seaborn**: Used for visualizing data trends and insights.
 - **Jupyter Notebook**: Served as the environment for conducting the analysis.
-- **scikit-learn**: Applied to build and evaluate predictive models to determine expected financial success.
-  
+    
 ## Steps and Workflow
 
 ### 1. Data Cleaning
@@ -141,10 +140,6 @@ The project includes several key visualizations:
 - **Movies by Votes**: A graph of votes received by movies.
 - **Movies by Gross**: A chart showing gross revenue of movies.
 
-## Usage
-
-Feel free to explore the images above. For questions or contributions, please reach out!
-
 
 # Movie Studio Recommendations
 ### 1. Emulate Successful Franchises
@@ -168,7 +163,8 @@ Feel free to explore the images above. For questions or contributions, please re
 - **Goal:** Enhance production quality and distribution reach.
 
 ## Conclusion
-These recommendations aim to position the new movie studio competitively in the evolving film industry landscape.
+
+- These recommendations aim to position the new movie studio competitively in the evolving film industry landscape.
 ---
 ## Contributors
 
@@ -177,6 +173,6 @@ These recommendations aim to position the new movie studio competitively in the 
 - [Boniface Ngechu](https://github.com/bonie99)
 - [Linet Lydia](https://github.com/linetlydia)
 - [Batuli Abdullah](https://github.com/batuli'02)
-
+- [Tableau Dashboard Links]()
   ---
 
