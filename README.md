@@ -77,12 +77,12 @@ The following tools and libraries were used in the analysis:
    - **High ROI for Lower-Budget Films**: Smaller-budget films often yield the highest ROI due to their lower production costs.
    - **Larger Budgets Aren't Always Profitable**: While larger-budget films earn more gross revenue, they also come with higher costs, which doesn’t always translate into better profitability.
 
-# Return on Investment (ROI) Calculation
+## Return on Investment (ROI) Calculation
 
-## Overview
+### Overview
 The **ROI** helps stakeholders understand the financial benefits of a project relative to its cost.
 
-## ROI Formula
+### ROI Formula
 The formula for calculating ROI is as follows:
 
 $$
@@ -118,11 +118,6 @@ By using the ROI formula, stakeholders can evaluate the effectiveness and financ
 
     ```
 
-## Usage
-
-1. **Data Cleaning**: Ensure all datasets are properly cleaned (no missing or duplicate values).
-2. **Analysis Execution**: The provided Jupyter Notebook contains code to reproduce all the visualizations and findings.
-3. **Predictions**: You can run the machine learning models to predict box office gross based on the provided data.
 
 ## Contributors
 
@@ -130,6 +125,8 @@ By using the ROI formula, stakeholders can evaluate the effectiveness and financ
 - [Imran](https://github.com/malvadaox)
 - [Boniface Ngechu](https://github.com/bonie99)
 - [Linet Lydia](https://github.com/linetlydia)
+- [Batuli Abdullah](https://github.com/batuliabdullah)
+
 
 
 ## Visualizations
