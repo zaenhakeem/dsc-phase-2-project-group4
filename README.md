@@ -76,6 +76,17 @@ The following tools and libraries were used in the analysis:
 ### 2. Return on Investment (ROI) Insights
    - **High ROI for Lower-Budget Films**: Smaller-budget films often yield the highest ROI due to their lower production costs.
    - **Larger Budgets Aren't Always Profitable**: While larger-budget films earn more gross revenue, they also come with higher costs, which doesn’t always translate into better profitability.
+### **Return on Investment (ROI) Calculation**
+
+The ROI helps stakeholders understand the financial benefits of the project relative to its cost. It can be calculated as follows:
+
+**ROI Formula**:
+\[
+\text{ROI} = \frac{\text{Net Profit} - \text{Total Investment}}{\text{Total Investment}} \times 100
+\]
+
+- **Net Profit**: The financial gain from improved student performance and retention rates.
+- **Total Investment**: The costs incurred during the project (software, data analysis tools, salaries, etc.).
 
 ### 3. Predictive Analysis
    - The predictive models created as part of the project show that **production budget** is a significant predictor of a movie's gross revenue. However, it is not a perfect predictor, as other factors (e.g., marketing, cast) play crucial roles in determining success.
@@ -123,6 +134,29 @@ Here is a placeholder for the images:
 ![Genre by rating](genrebyrating.png)
 
 
+# Movie Studio Recommendations
+### 1. Emulate Successful Franchises
+- **Action:** Analyze franchise models from leading studios.
+- **Goal:** Create original content with franchise potential.
+
+### 2. Diversify Genre Offerings
+- **Action:** Explore a variety of genres like horror, action, and animation.
+- **Goal:** Appeal to a broader audience base.
+
+### 3. Leverage Strong IPs
+- **Action:** Acquire or develop strong intellectual properties.
+- **Goal:** Utilize existing IP libraries for expansion.
+
+### 4. Innovate Marketing Strategies
+- **Action:** Implement engaging marketing campaigns.
+- **Goal:** Build audience anticipation using digital platforms.
+
+### 5. Collaborate for Success
+- **Action:** Form strategic partnerships with other studios.
+- **Goal:** Enhance production quality and distribution reach.
+
+## Conclusion
+These recommendations aim to position the new movie studio competitively in the evolving film industry landscape.
 
 
 ---
