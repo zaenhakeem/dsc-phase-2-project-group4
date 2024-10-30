@@ -92,7 +92,6 @@ $$
 ### Definitions
 - **Net Profit:** The financial gain from improved student performance and retention rates.
 - **Total Investment:** The costs incurred during the project, which may include:
-- 
 ## Conclusion
 By using the ROI formula, stakeholders can evaluate the effectiveness and financial viability of the project.
 
@@ -118,17 +117,6 @@ By using the ROI formula, stakeholders can evaluate the effectiveness and financ
 
     ```
 
-
-## Contributors
-
-- [Abdihakim Issack](https://github.com/zaenhakeem)
-- [Imran](https://github.com/malvadaox)
-- [Boniface Ngechu](https://github.com/bonie99)
-- [Linet Lydia](https://github.com/linetlydia)
-- [Batuli Abdullah](https://github.com/batuliabdullah)
-
-
-
 ## Visualizations
 
 The project includes several key visualizations:
@@ -136,11 +124,41 @@ The project includes several key visualizations:
 - Scatterplots illustrating the relationship between budget and box office performance
 - ROI distribution histograms
 
-Here is a placeholder for the images:
+### Visualizations
 
-![studio by gross](tudiobyfross.png)
-![Heatmap](heatmapfinal.png)
-![Genre by rating](genrebyrating.png)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+  <div style="flex: 1; text-align: center; margin: 10px;">
+    <img src="tudiobyfross.png" alt="studio by gross" width="300">
+    <p><strong>Studio by Gross</strong></p>
+  </div>
+
+  <div style="flex: 1; text-align: center; margin: 10px;">
+    <img src="heatmapfinal.png" alt="Heatmap" width="300">
+    <p><strong>Heatmap</strong></p>
+  </div>
+
+  <div style="flex: 1; text-align: center; margin: 10px;">
+    <img src="moviesbyrating.png" alt="Movies by rating" width="300">
+    <p><strong>Movies by Rating</strong></p>
+  </div>
+
+  <div style="flex: 1; text-align: center; margin: 10px;">
+    <img src="genrespie.png" alt="Genres pie chart" width="300">
+    <p><strong>Genres Pie Chart</strong></p>
+  </div>
+
+  <div style="flex: 1; text-align: center; margin: 10px;">
+    <img src="moviesbyvoytes.png" alt="Movies by votes" width="300">
+    <p><strong>Movies by Votes</strong></p>
+  </div>
+
+  <div style="flex: 1; text-align: center; margin: 10px;">
+    <img src="aven.png" alt="Movies by Gross" width="300">
+    <p><strong>Movies by Gross</strong></p>
+  </div>
+
+</div>
 
 
 # Movie Studio Recommendations
@@ -166,7 +184,14 @@ Here is a placeholder for the images:
 
 ## Conclusion
 These recommendations aim to position the new movie studio competitively in the evolving film industry landscape.
-
-
 ---
+## Contributors
+
+- [Abdihakim Issack](https://github.com/zaenhakeem)
+- [Imran](https://github.com/malvadaox)
+- [Boniface Ngechu](https://github.com/bonie99)
+- [Linet Lydia](https://github.com/linetlydia)
+- [Batuli Abdullah](https://github.com/batuli'02)
+
+  ---
 
