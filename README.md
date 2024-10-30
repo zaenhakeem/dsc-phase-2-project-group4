@@ -1,4 +1,5 @@
 
+
 # Data Analysis on Movie Financials
 
 This project presents a comprehensive analysis of movie financials, exploring production budgets, box office gross, and Return on Investment (ROI). By analyzing various datasets, we aim to uncover the underlying factors that drive a movie's financial success and provide valuable insights into the correlation between budget size and profitability. This analysis includes detailed visualizations, predictive models, and hypothesis testing.
@@ -173,6 +174,6 @@ The project includes several key visualizations:
 - [Boniface Ngechu](https://github.com/bonie99)
 - [Linet Lydia](https://github.com/linetlydia)
 - [Batuli Abdullah](https://github.com/batuli'02)
-- [Tableau Dashboard Links]()
+- [Tableau Dashboard Links](https://public.tableau.com/shared/XMQHJR676?:display_count=n&:origin=viz_share_link)
   ---
 
