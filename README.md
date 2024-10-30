@@ -126,39 +126,34 @@ The project includes several key visualizations:
 
 ### Visualizations
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
-  <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="tudiobyfross.png" alt="studio by gross" width="300">
-    <p><strong>Studio by Gross</strong></p>
+  <div style="flex: 0 0 45%; margin: 10px;">
+    <img src="tudiobyfross.png" alt="studio by gross" style="width: 100%;"/>
+  </div>
+  
+  <div style="flex: 0 0 45%; margin: 10px;">
+    <img src="heatmapfinal.png" alt="Heatmap" style="width: 100%;"/>
   </div>
 
-  <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="heatmapfinal.png" alt="Heatmap" width="300">
-    <p><strong>Heatmap</strong></p>
+  <div style="flex: 0 0 45%; margin: 10px;">
+    <img src="moviesbyrating.png" alt="Movies by rating" style="width: 100%;"/>
   </div>
 
-  <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="moviesbyrating.png" alt="Movies by rating" width="300">
-    <p><strong>Movies by Rating</strong></p>
+  <div style="flex: 0 0 45%; margin: 10px;">
+    <img src="genrespie.png" alt="genres pie chart" style="width: 100%;"/>
   </div>
-
-  <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="genrespie.png" alt="Genres pie chart" width="300">
-    <p><strong>Genres Pie Chart</strong></p>
+  
+  <div style="flex: 0 0 45%; margin: 10px;">
+    <img src="moviesbyvoytes.png" alt="Movies by votes" style="width: 100%;"/>
   </div>
-
-  <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="moviesbyvoytes.png" alt="Movies by votes" width="300">
-    <p><strong>Movies by Votes</strong></p>
-  </div>
-
-  <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="aven.png" alt="Movies by Gross" width="300">
-    <p><strong>Movies by Gross</strong></p>
+  
+  <div style="flex: 0 0 45%; margin: 10px;">
+    <img src="aven.png" alt="Movies by Gross" style="width: 100%;"/>
   </div>
 
 </div>
+
 
 
 # Movie Studio Recommendations
